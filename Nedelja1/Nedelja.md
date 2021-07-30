@@ -22,7 +22,7 @@
 	
 
 4. **Prestupne godine**<br>
-	Godina je prestupna ako je deljiva sa 4 i vazi da nije deljiva sa 100 ili je deljiva sa 400.<br>Korisnik unosi dve godine strogo vece od 0. Ispisati sve godine koje su prestupne u zadatom intervalu ukljucujuci i te dve.
+	Godina je prestupna ako je deljiva sa 4 i vazi da nije deljiva sa 100 ili je deljiva sa 400.<br>Korisnik unosi dve godine strogo vece od 0. Ispisati broj godina koje su prestupne u zadatom intervalu ukljucujuci i te dve.
 	| **Primer 1** | **Primer 2** | **Primer 3** | **Primer 4** |
 	|--------------|--------------|--------------|--------------|
 	| *Input:* <br>1<br>400<br>*Output:* <br>97| *Input:* <br>400<br>2000<br>*Output:* <br>389| *Input:* <br>4<br>4<br>*Output:* <br>1| *Input:* <br>100<br>50<br>*Output:* <br>0|
