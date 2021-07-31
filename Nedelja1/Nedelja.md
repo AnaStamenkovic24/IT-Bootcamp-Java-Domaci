@@ -1,4 +1,4 @@
-# Domaci zadatak I [petak]
+# Domaci zadatak I [Nedelja]
 1. **Olimpijske medalje**<br>
 	Na standardni ulaz se unose imena dva tima, a zatim i 6 celih pozitivnih brojeva koji oznacavaju broj osvojenih zlatnih, srebrnih odnosno bronzanih medalja, tim redom. 
 	Prva 3 broja se odnose na prvi tim a druga tri broja na drugi tim. 
@@ -18,7 +18,7 @@
 	Korisnik unosi cene proizvoda koje je kupio sve dok se ne unese 0. Na standardni izlaz ispisati prosecnu cenu proizvoda. Ukoliko korisnik unese negativnu vrednost za cenu proizvoda, onda taj unos treba zanemariti i nastaviti sa unosom.
 	| **Primer 1** | **Primer 2**| **Primer 3**|
 	|--------------|-------------|-------------|
-	| *Input:* <br>3.5<br>3.0<br>4<br>0<br>*Output:* <br>3.5| *Input:* <br>1<br>2<br>3<br>-17<br>5<br>5<br>5<br>0<br>*Output:* <br>3.0| *Input:* <br>0<br>*Ouput:* <br>0|
+	| *Input:* <br>3.5<br>3.0<br>4<br>0<br>*Output:* <br>3.5| *Input:* <br>1<br>2<br>3<br>-17<br>5<br>5<br>5<br>0<br>*Output:* <br>3.5| *Input:* <br>0<br>*Ouput:* <br>0|
 	
 
 4. **Prestupne godine**<br>
