@@ -13,5 +13,5 @@
    Npr 5! = 5 * 4 * 3 * 2 * 1 = 120
 	| **Primer 1** | **Primer 2**| **Primer 3**|
 	|--------------|-------------|-------------|
-	| *Input:* <br>5<br>3<br> *Output:* <br> Brojevi 5 i 3 su istog znaka| *Input:* <br>-2<br>2<br> *Output:* <br> Brojevi -2 i 2 su suprotnog znaka| *Input:* <br>-31<br>-105<br> *Output:* <br> Brojevi -31 i -105 su istog znaka|
+	| *Input:* <br>5<br>*Output:* <br> 120| *Input:* <br>4<br> *Output:* <br> 24| *Input:* <br>6<br> *Output:* <br> 720|
 
