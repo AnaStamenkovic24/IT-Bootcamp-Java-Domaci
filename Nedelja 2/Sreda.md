@@ -16,8 +16,8 @@
 	| *Input:* <br>5<br>*Output:* <br> 120| *Input:* <br>4<br> *Output:* <br> 24| *Input:* <br>6<br> *Output:* <br> 720|
 
 3. **Diov**<br>
-	Napisati program koji poziva funkciju diov(boolean b, int i, double d), koja u konzolu ispisuje poruku "Boolean" ako je b netacno, poruku "Integer", ako je i vece od 49 i poruku "Double" ako je d dvostruko veci od promenjive i, zaokruzen na celu decimalu nanize!
+	Napisati program koji poziva funkciju diov(boolean b, int i, double d), koja u konzolu ispisuje poruku "Boolean" ako je b netacno, poruku "Integer", ako je i strogo vece od 49 i poruku "Double" ako je d dvostruko strogo veci od promenjive i, zaokruzen na celu decimalu nanize!
 	| **Primer 1** | **Primer 2**| **Primer 3**|
 	|--------------|-------------|-------------|
-	| *Input:* <br>5<br>*Output:* <br> 120| *Input:* <br>4<br> *Output:* <br> 24| *Input:* <br>6<br> *Output:* <br> 720|
+	| *Input:* <br>b = true, i = 48, d = 5<br>*Output:* <br>Boolean<br>Integer| *Input:* <br>b = false, i = 20, d = 41,1<br> *Output:* <br> "Double"| *Input:* <br>b = true, i = 20, d = 40.9<br> *Output:* <br> "Boolean"|
 
