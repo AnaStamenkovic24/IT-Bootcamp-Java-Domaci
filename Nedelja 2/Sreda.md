@@ -1,7 +1,6 @@
 Uraditi doamce od prosle srede i prva 4 od prosle nedelje preko funkcija.
 
 1. Napisati program koji uporedju 3 realna broja i ispisuje najmanji od njih u konzoli.
-
 2. Napsiati program koji za uneti pozitivan celi broj veci od 0 n ispisuje njegov faktorijel.
    Faktorijel se obelezava sa ! i racuna se kao n! = n * n-1 * n-2 * ... * 3 * 2 * 1<br>
    Npr 5! = 5 * 4 * 3 * 2 * 1 = 120
