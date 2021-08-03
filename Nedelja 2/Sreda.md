@@ -19,5 +19,5 @@
 	Napisati program koji poziva funkciju bid(boolean b, int i, double d), koja u konzolu ispisuje poruku "Boolean" ako je b netacno, poruku "Integer", ako je i strogo vece od 49 i poruku "Double" ako je d dvostruko strogo veci od promenjive i, zaokruzen na celu decimalu nanize!
 	| **Primer 1** | **Primer 2**| **Primer 3**|
 	|--------------|-------------|-------------|
-	| *Input:* <br>b = flse, i = 48, d = 5<br>*Output:* <br>Boolean<br>Integer| *Input:* <br>b = true, i = 20, d = 41,1<br> *Output:* <br> "Double"| *Input:* <br>b = false, i = 20, d = 40.9<br> *Output:* <br> "Boolean"|
+	| *Input:* <br>b = flse, i = 50, d = 5<br>*Output:* <br>Boolean<br>Integer| *Input:* <br>b = true, i = 20, d = 41,1<br> *Output:* <br> "Double"| *Input:* <br>b = false, i = 20, d = 40.9<br> *Output:* <br> "Boolean"|
 
