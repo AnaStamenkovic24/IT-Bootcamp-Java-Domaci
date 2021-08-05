@@ -11,8 +11,8 @@
   Zatim se unosi niska sa tekucim racunom sve dok se ne unese prazna niska. Napisati funkciju koja proverava da li postoji u bazi zadati racun i funkciju koja vraca kolicinu novca sa racauna i pozivati ih za svaki unos.<br>
   
 2. **Suma cifara broja, ponovo**<br>
-  Korisniki unosi broj kao String. Na standardni izlaz ispisati zbir njegovih cifara. Za racunanje zbira cifara napraviti zasebnu funkciju koja vraca int.<br>
-  Raditi pomocu String metode toCharArray()!<br>
+Korisniki unosi broj kao String. Na standardni izlaz ispisati zbir njegovih cifara. Za racunanje zbira cifara napraviti zasebnu funkciju koja vraca int.<br>
+Raditi pomocu String metode toCharArray()!
  
 3. **Levo Desno**<br>
   Korisnik unosi broj n koji oznacava koliko double brojeva kod treba da ocekuje. Zatim, unosi n double brojeva, pozitivnih, negativnih ili 0.0. Smestiti sve te brojeve u niz, tako da idu prvo svi negativni, pa onda sve 0.0, pa tek onda svi pozitivni brojevi (brojevi nemoraju da budu sortirani). Napraviti zasebnu funkciju koja smesta brojeve na njihove odgovarajuce lokacije u nizu i zasebnu funkciju koja ispisuje ceo niz.<br>
