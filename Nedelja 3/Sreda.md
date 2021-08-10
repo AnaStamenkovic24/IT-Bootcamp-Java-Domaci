@@ -10,7 +10,7 @@
    String poruka = "Jedi #$%^ !@#$!!!@# mali!"<br>
    String[] kljuc = {"#$%^", "!@#$!!!@#"}<br>
    String[] decode = {"pite", "moroncinu"}<br>
-   String res = "Jedi pite moroncinu mali!"<br>  <-- ovo treba vratiti
+   String res = "Jedi pite moroncinu mali!" <-- ovo treba vratiti<br> 
   Ni jedan kljuc nije podstring drugog (osim samog sebe, naravno)
 
 3. Napisati funkciju koja za prosledjeni password proverava da li je validan, tj.:<br>
