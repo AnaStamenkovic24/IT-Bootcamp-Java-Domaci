@@ -2,7 +2,7 @@
 
 
 1. Biblord na autoputu treba da ispise poruku koja joj je prosledjena dalekovodima. Kako su dalekovodi stari, cesto u prenosu poruke dodaju karaktere '$', '#' i '@' negde u poruku.<br>
-  Napisati funkciju koji ispisuje originalnu poruku, bez tih dodatih simbola. Npr "Vo$z$ite $#@pazlj@i######vo!#" -> "Vozite pazljivo!"<br>
+  Napisati funkciju koja ispisuje originalnu poruku, bez tih dodatih simbola. Npr "Vo$z$ite $#@pazlj@i######vo!#" -> "Vozite pazljivo!"<br>
   
 2. Napisati funkciju koja transformise cenzurisane ruzne reci natrag u originalni oblik i vraca taj oblik nazad.<br>
    Funkciji se prolsedjuje niska, niz niski u kome se nalaze kljucevi i niz niski u kome se nalaze desifrovane poruke, tako da kljuc[i] -> decode[i];<br>
