@@ -21,7 +21,7 @@ Npr: [1, 2, 3, 4, 5] => [1, 2, 3] + [3, 4, 5] => [4, 6, 8] <- ovo treba vratiti
 - Ne pocinje brojem
 - Ne zavrsava se malim slovom, osim ako prethodni karakter nije neki izmedju [e, t] u engleskoj abecedi
 - Ako je neparne duzine mora da sadrzi barem 3 broja od kojih su tacno 2 parna
-- Nije anagram
+- Nije palindrom
 - Nema belina
 12. Napisati funkciju koja za prosledjeni celobronji pozitivan broj smesten u String-u proverava da li je palindrom. Npr: 1134311 jeste palindrom.
 13. Napisati funkciju koja za prosledjeni String oblika: "true&&false||true" vraca boolean vrednost. String ima samo reci "true" i "false" i cita se sa leva na desno (a ima operatore !, && i ||)
