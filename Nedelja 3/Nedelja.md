@@ -25,7 +25,7 @@ Npr: [1, 2, 3, 4, 5] => [1, 2, 3] + [3, 4, 5] => [4, 6, 8] <- ovo treba vratiti
 - Nema belina
 12. Napisati funkciju koja za prosledjeni celobronji pozitivan broj smesten u String-u proverava da li je palindrom. Npr: 1134311 jeste palindrom.
 13. Napisati funkciju koja za prosledjeni String oblika: "true&&false||true" vraca boolean vrednost. String ima samo reci "true" i "false" i cita se sa leva na desno (a ima operatore !, && i ||)
-14. Napisati funkciju koja prima 2 broja, 3 niza i 4 stringa. Ako su prva dva broja jednaka ili ako je manji od njih prost a veci nije ili ako je veci od njih deljiv sa 3 a manji deljiv sa 2 ili 5 i ako je svaki broj u drugom nizu jednak zbiru brojeva na istom indeksu kod prvog i treceg niza (svi nizovi su iste duzine) i ako je barem jedan od prosledjenih Stringova substring u barem 2 od ostala 3 onda ne ispisati nista. Inace vratiti false.
+14. Napisati funkciju koja prima 2 broja, 3 niza i 4 stringa. Ako su prva dva broja jednaka ili ako je manji od njih prost a veci nije ili ako je veci od njih deljiv sa 3 a manji deljiv sa 2 ili 5 i ako je svaki broj u drugom nizu jednak zbiru brojeva na istom indeksu kod prvog i treceg niza (svi nizovi su iste duzine) i ako je barem jedan od prosledjenih Stringova substring u barem 2 od ostala 3 onda ne ispisati nista. Vratiti false.
 15. Napisati fukciju koja prima ArrayList-u integera i ispisuje sve brojeve koji su deljivi sa barem jednim od jednocifrenih prostih brojeva.
 16. Napisati funkciju koja prima ArrayList-u double-a i vraca ArrayList-u ciji su elementi za 2 veci od dupliranih elemenata iz prosledjene liste.
 17. Napisati funkciju koja proverava da li su dve ArrayListe iste (ili se razlikuju za maksimalno jedan element)
