@@ -5,7 +5,7 @@
 3. Napisati funkciju koja prima broj tipa int, a vraca broj koji se dobije tako sto se sve cifre saberu na sledeci nacin:
 Npr: 12345 = 1 - 2 + 3 - 4 + 5; 1234 = 1 - 2 + 3 - 4; 78901 = 7 - 8 + 9 - 0 + 1;
 4. Napisati funkciju koja prima dva niza i ispisuje prvo prvi element iz prvog niza, pa prvi element iz drugog niza, pa drugi iz prvog .... Nizovi ne moraju da budu iste duzine!<br>Npr: [1, 2, 8, 9] [3, 4, 5, 6, 7, -7] => 1 3 2 4 8 5 9 6 7 -7
-5. Napisati funkciju koja proverava da li je zadati ceo broj veci od jedinice prost. Prosti brojevi su svi oni koji su deljivi samo sa samim sobom i sa jedinicom.
+5. Napisati funkciju koja proverava da li je zadati ceo broj veci od jedinice, prost. Prosti brojevi su svi oni koji su deljivi samo sa samim sobom i sa jedinicom.
 6. Napisati funkciju koja ispisuje sve proste brojeve od 1 do i zakljucno sa n, gde se n prosledjuje. n ne mora da bude veci od 1
 7. Napisati funkciju koja rotira niz za k-pozicija (k >= 0).<br>
 Npr: [1, 2, 3, 4, 5] k = 3 => [3, 4, 5, 1, 2]; [2, 11] k = 0 => [2, 11];
