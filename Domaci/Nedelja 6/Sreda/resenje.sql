@@ -1,1 +1,2 @@
-SELECT * FROM ucenici;
+SELECT * FROM ucenici
+WHERE ime = "Cvijan";
