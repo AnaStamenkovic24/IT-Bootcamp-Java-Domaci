@@ -1,0 +1,17 @@
+CREATE TABLE Ucenici(
+  UcenikID INT NOT NULL PRIMARY KEY,
+  Ime VARCHAR (255) NOT NULL,
+  Prezime VARCHAR (255) NOT NULL,
+  Godine INT NOT NULL,
+  CHECK (Godine >= 6),
+  Prosek FLOAT DEFAULT 1.0
+);
+
+CREATE TABLE Profesori (
+  ProfesorID INT NOT NULL PRIMARY KEY,
+  Ime VARCHAR (255) NOT NULL,
+  Prezime VARCHAR (255) NOT NULL,
+  Godine INT NOT NULL,
+  CHECK (Godine >= 18),
+  Predmet VARCHAR (255)
+);
