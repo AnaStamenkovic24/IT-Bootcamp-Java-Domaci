@@ -10,8 +10,8 @@ Search: {ovde korisnik unosi String} // u kome se nalaze rec ili vise njih odvoj
 - Dodatno:<br>
   - Dodati da se proizvodi ispisuju po "stranama" (npr max 20 po strani) pa da korisnik moze da ide next "n" ili back "b" po stranama
   - Dodati opcije u pretrazi pomocu karaktera '-' npr:<br>
-    -exclude S <- izbacuje iz pretrage sve sto se nalazi u stringu S
-    -page x <- ispisuje najvise x proizvoda po stranici
+    -exclude S <- izbacuje iz pretrage sve sto se nalazi u stringu S<br>
+    -page x <- ispisuje najvise x proizvoda po stranici<br>
     -startWith c <- samo oni koji pocinju sa karatkerom c<br>
 
 Budite mastoviti!
